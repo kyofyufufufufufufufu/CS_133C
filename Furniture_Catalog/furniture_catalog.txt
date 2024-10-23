@@ -1,0 +1,20 @@
+---------------------------
+Couches:
+---------------------------
+Small Sofa, product no. 31990
+
+Sofa with Chaise, product no. 42066
+
+---------------------------
+Chairs:
+---------------------------
+Dining Chair, product no. 27444
+
+Reclining Chair, product no. 27895
+
+---------------------------
+Beds:
+---------------------------
+Twin-Size Bed, product no. 34456
+
+Queen-Size Bed, product no. 34560
